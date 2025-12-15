@@ -1,45 +1,51 @@
-## Hey 👋
-<img align="right" width="300" src="https://i.pinimg.com/originals/68/6f/61/686f61a923775e73e7d3d08b70be4d6e.gif"/>
+## Hey 👋 I'm Leandro
 
-<p>
+<img align="right" width="220" src="https://raw.githubusercontent.com/tiomalandrex/assets/main/terminal-cyber.gif"/>
+
 <samp>
-Hi there! I'm <b>Leandro Moreira</b>, from <b>Brazil</b>.
+Focused on <b>infrastructure</b>, <b>automation</b> and <b>monitoring</b>.<br/>
+Linux • Docker • Networking • Observability<br/>
+Self-hosted environments, game servers and Lua scripting.
 </samp>
+
 <br/>
-<samp>
-Focused on <b>infrastructure</b>, <b>automation</b> and <b>monitoring</b>.
-</samp>
-<br/>
-<samp>
-Linux • Docker • Networking • Observability
-</samp>
-<br/>
-<samp>
-Self-hosted services, game servers and Lua scripting.
-</samp>
-</p>
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua)
 
 ---
 
-### 🧠 Focus Areas
-- <samp>Infrastructure & self-hosted environments</samp>
-- <samp>Automation and monitoring</samp>
-- <samp>Linux servers and containers</samp>
-- <samp>Documentation, security and clean setups</samp>
+### 🏠 Homelab / Self-hosted
+<samp>
+• Docker & Docker Compose stacks<br/>
+• Grafana + InfluxDB monitoring<br/>
+• Zabbix for infrastructure visibility<br/>
+• Mikrotik (SNMP, metrics, traffic)<br/>
+• CasaOS & Linux-based servers<br/>
+• Game servers (Minecraft, Valheim, Deadside, MTA)
+</samp>
 
-<hr/>
+---
 
-### 🛠️ Stack
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua)
+### ⭐ Featured Projects
+<samp>
+• <b>Game Server Infrastructure</b> — Dockerized servers with monitoring and automation<br/>
+• <b>Observability Stack</b> — Grafana dashboards for network & services<br/>
+• <b>Self-hosted Services</b> — Media, management and internal tools<br/>
+• <b>Lua Scripts</b> — Gameplay logic and server-side automation
+</samp>
 
-<hr/>
+---
+
+### 📊 GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiomalandrex&show_icons=true&hide_title=true&hide_rank=true&theme=dark)
+
+---
 
 ### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiomalandro250@gmail.com)
-
-<br/>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiomalandrex&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/tiomalandrex)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
