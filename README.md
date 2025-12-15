@@ -12,9 +12,6 @@ Self-hosted environments, game servers and Lua scripting.
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua)
 
 ---
@@ -23,7 +20,6 @@ Self-hosted environments, game servers and Lua scripting.
 <samp>
 • Docker & Docker Compose stacks<br/>
 • Grafana + InfluxDB monitoring<br/>
-• Zabbix for infrastructure visibility<br/>
 • Mikrotik (SNMP, metrics, traffic)<br/>
 • CasaOS & Linux-based servers<br/>
 • Game servers (Minecraft, Valheim, Deadside, MTA)
