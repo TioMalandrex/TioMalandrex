@@ -58,7 +58,7 @@ Self-hosted environments, game servers, Discord bots and web development.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiomalandrex&show_icons=true&hide_title=true&hide_rank=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tiomalandrex&show_icons=true&hide_title=true&hide_rank=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ Self-hosted environments, game servers, Discord bots and web development.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiomalandrex&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiomalandrex&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" alt="Top Languages" />
 </p>
 
 ---
