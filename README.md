@@ -5,15 +5,21 @@
 <samp>
 Focused on <b>infrastructure</b>, <b>automation</b> and <b>monitoring</b>.<br/>
 Linux • Docker • Networking • Observability<br/>
-Self-hosted environments, game servers and Lua scripting.
+Self-hosted environments, game servers, Discord bots and web development.
 </samp>
 
 <br/>
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white)
 
 ---
 
@@ -23,17 +29,37 @@ Self-hosted environments, game servers and Lua scripting.
 • Grafana + InfluxDB monitoring<br/>
 • Mikrotik (SNMP, metrics, traffic)<br/>
 • CasaOS & Linux-based servers<br/>
-• Game servers (Minecraft, Valheim, Deadside, MTA)
+• Game servers (Minecraft, Valheim, Deadside, MTA, The Isle Evrima)
+</samp>
+
+---
+
+### 🤖 Discord Bots
+
+| Project | Description | Stack |
+|---|---|---|
+| [Bot-The-Isle-Evrima](https://github.com/TioMalandrex/Bot-The-Isle-Evrima) | Full-featured bot for The Isle Evrima — dino storage, economy, skin changer, RCON integration and web UI | Node.js · Discord.js · SQLite · Express |
+| [deadside-discord-bot](https://github.com/TioMalandrex/deadside-discord-bot) | Discord bot for Deadside game server management and player interaction | Python · discord.py |
+
+---
+
+### 🌐 Web & Personal Site
+
+<samp>
+• <a href="https://tiomalandrex.github.io"><b>tiomalandrex.github.io</b></a> — Personal portfolio & interactive design patterns demos (Factory, Observer, iOS emulation)<br/>
+• Built with HTML, CSS and vanilla JavaScript
 </samp>
 
 ---
 
 ### ⭐ Featured Projects
+
 <samp>
-• <b>Game Server Infrastructure</b> — Dockerized servers with monitoring and automation<br/>
-• <b>Observability Stack</b> — Grafana dashboards for network & services<br/>
-• <b>Self-hosted Services</b> — Media, management and internal tools<br/>
-• <b>Lua Scripts</b> — Gameplay logic and server-side automation
+• <b><a href="https://github.com/TioMalandrex/Bot-The-Isle-Evrima">Bot The Isle Evrima</a></b> — Complete Discord bot for The Isle Evrima with RCON, economy, dino garage, skin changer and web interface (v1.1.0)<br/>
+• <b><a href="https://github.com/TioMalandrex/deadside-discord-bot">Deadside Discord Bot</a></b> — Python-based Discord bot for Deadside game server management<br/>
+• <b><a href="https://tiomalandrex.github.io">Personal Website</a></b> — Portfolio and web development experiments with design patterns<br/>
+• <b>Observability Stack</b> — Grafana dashboards for network & services monitoring<br/>
+• <b>Game Server Infrastructure</b> — Dockerized servers with monitoring and automation
 </samp>
 
 ---
@@ -59,6 +85,10 @@ Self-hosted environments, game servers and Lua scripting.
 <p align="left">
   <a href="mailto:tiomalandro250@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://tiomalandrex.github.io">
+    <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Website" />
   </a>
 </p>
 
