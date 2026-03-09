@@ -78,14 +78,6 @@ Self-hosted environments, game servers, Discord bots and web development.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/iaan-mesquita-1b5712202/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/tiomalandro">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  &nbsp;
   <a href="https://tiomalandrex.github.io">
     <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Website" />
   </a>
